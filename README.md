@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Fqwq233
+- 👀 I’m interested in anime
+- 🌱 I’m currently learning vim
